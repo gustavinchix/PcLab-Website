@@ -9,7 +9,7 @@ function Landing() {
         <div className="navigationBar">
           <img alt="" src={logo} width="50px" height="100%"></img>
           <a href="#"><img className="buildIco" alt="" src={buildIco} width="30px" height="60%"></img></a>
-          <div></div>
+          
         </div>
       </nav>
     </div>
